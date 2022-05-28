@@ -27,7 +27,7 @@ naga08 = { package = "naga", git = "https://github.com/jakobhellermann/naga", br
   "validate",
   "span",
 ] }
-nagamain = { package = "naga", git = "https://github.com/gfx-rs/naga", rev = "9c8a51830c0348fabb3cda990e2449eea8f9de60", features = [
+nagamain = { package = "naga", git = "https://github.com/gfx-rs/naga", branch = "master", features = [
   "wgsl-in",
   "validate",
   "span",
